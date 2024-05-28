@@ -15,7 +15,7 @@
   <body>
     <nav class="navbar navbar-expand-lg navbar-dark bg-success">
       <div class="container">
-        <a class="navbar-brand" href="./index.php">Simple CRUD</a>
+        <a class="navbar-brand" href="./index.php">Registrasi User</a>
         <button
           class="navbar-toggler"
           type="button"
